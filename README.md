@@ -76,7 +76,7 @@ Me chamo Yosaf Marques, tenho 22 anos, natural de Guarulhos-SP. Conclui meu ensi
 <img
     align="left"
     alt="GitHub Stats"
-    height="150"
+    height="200"
     style="padding-right: 15px;"
     src="https://github-readme-stats.vercel.app/api?username=Yosaf-Marqs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
@@ -84,7 +84,7 @@ Me chamo Yosaf Marques, tenho 22 anos, natural de Guarulhos-SP. Conclui meu ensi
 <img
     align="left"
     alt="GitHub Stats"
-    height="100"
+    height="200"
     style="padding-right: px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosaf-Marqs&theme=tokyonight&pt-br&layout=compact&custom_title=Linguagens&langs_count=9"
 />
