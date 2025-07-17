@@ -2,7 +2,7 @@
 
 ### **`Desenvolvedor Iniciante`**
 
-Me chamo Yosaf Marques, tenho 22 anos, natural de Guarulhos-SP. Conclui meu ensino médio em Piedade-SP, integrado ao curso técnico em administração. Estou me graduando atualmente em Engenharia da Computação, na Universidade de Sorocaba (UNISO). Me interessei pelo mundo da tecnologia à pouco tempo, mas tenho contato desde de criança, e busco constantemente evoluir meu conhecimento nessa área tão abrangente.
+Me chamo Yosaf Marques, tenho 21 anos, natural de Guarulhos-SP. Conclui meu ensino médio em Piedade-SP, integrado ao curso técnico em administração. Estou me graduando atualmente em Engenharia da Computação, na Universidade de Sorocaba (UNISO). Me interessei pelo mundo da tecnologia à pouco tempo, mas tenho contato desde de criança, e busco constantemente evoluir meu conhecimento nessa área tão abrangente.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight">
